@@ -1,0 +1,91 @@
+body {
+  background: #282b31;
+}
+
+.table {
+  position: relative;
+  background: #ffffff;
+  width: 300px;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+}
+
+button {
+  width: 30px;
+  height: 30px;
+  border-color: black;
+  background: #999999;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(255, 248, 239);
+}
+
+.info {
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+  height: 75px;
+  margin-left: auto;
+  margin-right: auto;
+  background: #999999;
+  font-size: x-large;
+}
+
+.numberOfFlags {
+  position: relative;
+  left: 35px;
+  top: 20px;
+  height: 50px;
+  text-align: center;
+  width: 50px;
+  font-size: larger;
+}
+
+.flagIcon {
+  position: relative;
+  right: 0px;
+  bottom: 35px;
+  height: 40px;
+  text-align: center;
+  width: 50px;
+  font-size: xx-large;
+}
+
+.restart {
+  position: relative;
+  background-image: url('img/happy.png');
+  width: 50px;
+  height: 50px;
+  bottom: 50px;
+  left: 68px;
+  border: white;
+}
+
+.timer {
+  position: relative;
+  left: 200px;
+  bottom: 95px;
+  height: 50px;
+  text-align: center;
+  width: 50px;
+  font-size: larger;
+}
+
+.timerClock {
+  position: relative;
+  right: 0px;
+  bottom: 35px;
+  height: 35px;
+  left: 255px;
+  bottom: 145px;
+  text-align: center;
+  width: 35px;
+  font-size: xx-large;
+}
