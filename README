@@ -1,1 +1,5 @@
 # Minesweeper :
+- click on any square
+- if there is a mine around the square, its value increases by 1
+- the goal is to open all squares without triggering a mine
+- if you trigger a mine, the game is over
